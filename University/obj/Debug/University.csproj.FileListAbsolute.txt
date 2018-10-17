@@ -1,0 +1,14 @@
+C:\Users\wushan\Desktop\edX\University\obj\Debug\University.csprojResolveAssemblyReference.cache
+C:\Users\wushan\Desktop\edX\University\obj\Debug\University.csproj.CoreCompileInputs.cache
+C:\Users\wushan\Desktop\edX\University\bin\Debug\University.exe.config
+C:\Users\wushan\Desktop\edX\University\bin\Debug\University.exe
+C:\Users\wushan\Desktop\edX\University\bin\Debug\University.pdb
+C:\Users\wushan\Desktop\edX\University\obj\Debug\University.exe
+C:\Users\wushan\Desktop\edX\University\obj\Debug\University.pdb
+C:\Users\wushan\Desktop\CSharpTraining\University\bin\Debug\University.exe.config
+C:\Users\wushan\Desktop\CSharpTraining\University\bin\Debug\University.exe
+C:\Users\wushan\Desktop\CSharpTraining\University\bin\Debug\University.pdb
+C:\Users\wushan\Desktop\CSharpTraining\University\obj\Debug\University.csprojAssemblyReference.cache
+C:\Users\wushan\Desktop\CSharpTraining\University\obj\Debug\University.csproj.CoreCompileInputs.cache
+C:\Users\wushan\Desktop\CSharpTraining\University\obj\Debug\University.exe
+C:\Users\wushan\Desktop\CSharpTraining\University\obj\Debug\University.pdb

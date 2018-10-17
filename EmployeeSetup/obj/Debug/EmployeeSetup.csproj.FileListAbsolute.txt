@@ -1,0 +1,7 @@
+C:\Users\wushan\Desktop\edX\EmployeeSetup\bin\Debug\EmployeeSetup.exe.config
+C:\Users\wushan\Desktop\edX\EmployeeSetup\bin\Debug\EmployeeSetup.exe
+C:\Users\wushan\Desktop\edX\EmployeeSetup\bin\Debug\EmployeeSetup.pdb
+C:\Users\wushan\Desktop\edX\EmployeeSetup\obj\Debug\EmployeeSetup.csprojResolveAssemblyReference.cache
+C:\Users\wushan\Desktop\edX\EmployeeSetup\obj\Debug\EmployeeSetup.csproj.CoreCompileInputs.cache
+C:\Users\wushan\Desktop\edX\EmployeeSetup\obj\Debug\EmployeeSetup.exe
+C:\Users\wushan\Desktop\edX\EmployeeSetup\obj\Debug\EmployeeSetup.pdb

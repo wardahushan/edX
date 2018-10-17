@@ -1,0 +1,7 @@
+C:\Users\wushan\Desktop\CSharpTraining\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\wushan\Desktop\CSharpTraining\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\wushan\Desktop\CSharpTraining\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\wushan\Desktop\CSharpTraining\ConsoleApp1\obj\Debug\DataStructures.csproj.CoreCompileInputs.cache
+C:\Users\wushan\Desktop\CSharpTraining\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\wushan\Desktop\CSharpTraining\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\wushan\Desktop\CSharpTraining\ConsoleApp1\obj\Debug\DataStructures.csprojAssemblyReference.cache

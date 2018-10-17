@@ -1,0 +1,14 @@
+C:\Users\wushan\Desktop\edX\ChessBoard\bin\Debug\ChessBoard.exe.config
+C:\Users\wushan\Desktop\edX\ChessBoard\bin\Debug\ChessBoard.exe
+C:\Users\wushan\Desktop\edX\ChessBoard\bin\Debug\ChessBoard.pdb
+C:\Users\wushan\Desktop\edX\ChessBoard\obj\Debug\ChessBoard.csprojResolveAssemblyReference.cache
+C:\Users\wushan\Desktop\edX\ChessBoard\obj\Debug\ChessBoard.csproj.CoreCompileInputs.cache
+C:\Users\wushan\Desktop\edX\ChessBoard\obj\Debug\ChessBoard.exe
+C:\Users\wushan\Desktop\edX\ChessBoard\obj\Debug\ChessBoard.pdb
+C:\Users\wushan\Desktop\CSharpTraining\ChessBoard\bin\Debug\ChessBoard.exe.config
+C:\Users\wushan\Desktop\CSharpTraining\ChessBoard\bin\Debug\ChessBoard.exe
+C:\Users\wushan\Desktop\CSharpTraining\ChessBoard\bin\Debug\ChessBoard.pdb
+C:\Users\wushan\Desktop\CSharpTraining\ChessBoard\obj\Debug\ChessBoard.csprojAssemblyReference.cache
+C:\Users\wushan\Desktop\CSharpTraining\ChessBoard\obj\Debug\ChessBoard.csproj.CoreCompileInputs.cache
+C:\Users\wushan\Desktop\CSharpTraining\ChessBoard\obj\Debug\ChessBoard.exe
+C:\Users\wushan\Desktop\CSharpTraining\ChessBoard\obj\Debug\ChessBoard.pdb

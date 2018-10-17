@@ -1,0 +1,7 @@
+C:\Users\wushan\Desktop\CSharpTraining\Collections\bin\Debug\Collections.exe.config
+C:\Users\wushan\Desktop\CSharpTraining\Collections\bin\Debug\Collections.exe
+C:\Users\wushan\Desktop\CSharpTraining\Collections\bin\Debug\Collections.pdb
+C:\Users\wushan\Desktop\CSharpTraining\Collections\obj\Debug\Collections.csprojAssemblyReference.cache
+C:\Users\wushan\Desktop\CSharpTraining\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+C:\Users\wushan\Desktop\CSharpTraining\Collections\obj\Debug\Collections.exe
+C:\Users\wushan\Desktop\CSharpTraining\Collections\obj\Debug\Collections.pdb

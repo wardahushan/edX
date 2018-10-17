@@ -1,0 +1,7 @@
+C:\Users\wushan\Desktop\edX\Algorithms\bin\Debug\Algorithms.exe.config
+C:\Users\wushan\Desktop\edX\Algorithms\bin\Debug\Algorithms.exe
+C:\Users\wushan\Desktop\edX\Algorithms\bin\Debug\Algorithms.pdb
+C:\Users\wushan\Desktop\edX\Algorithms\obj\Debug\Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\wushan\Desktop\edX\Algorithms\obj\Debug\Algorithms.exe
+C:\Users\wushan\Desktop\edX\Algorithms\obj\Debug\Algorithms.pdb
+C:\Users\wushan\Desktop\edX\Algorithms\obj\Debug\Algorithms.csprojResolveAssemblyReference.cache
